@@ -9,7 +9,7 @@
 ## Connect With Me
 
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mishrayash0607@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/yash-mishra-1847aa1aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-mishra-1847aa1aa/)
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Yash15-maker)
 [![Dev Badge](https://img.shields.io/badge/-Dev.io-0a0a0a?style=flat&labelColor=0a0a0a&logo=dev.to&logoColor=white)](https://dev.to/nova_yash)
 
@@ -37,13 +37,13 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
       </td>
       <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="100">
+          <img src="https://www.vectorlogo.zone/logos/shell/shell-ar21.svg" width="100">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
       </td>
       <td align='center' width="190">
-          <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="100">
+          <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" width="100">
       </td>
   </tr>
 <table>
@@ -89,7 +89,7 @@
 <table width="100">
   <tr>
       <td align='center' width="200">
-          <img src="https://firebasestorage.googleapis.com/v0/b/profile-sayan-bhattacharyya.appspot.com/o/PNGIX.com_lostnunbound-png_4976868.png?alt=media&token=132fa318-0185-4445-a7b0-ae5e6d753cbc">
+          <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
       </td>
   </tr>
 </table>
@@ -100,12 +100,10 @@
         <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70"/>
         </td>
+       
         <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70"/>
-        </td>
-        <!-- <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80"/>
-        </td> -->
+        </td>
     </tr>
 </table>
 
