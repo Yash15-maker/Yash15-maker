@@ -100,7 +100,8 @@
         <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70"/>
         </td>
-       
+    </tr>
+    <tr>
         <td align='center' width="190">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80"/>
         </td>
