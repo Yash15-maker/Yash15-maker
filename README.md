@@ -1,7 +1,7 @@
 # Hi there, I'm Yash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
 - I'm Yash Mishra from [India](https://en.wikipedia.org/wiki/India), did my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) 🎓
-- I've a good amount of experience in [WEB](https://en.m.wikipedia.org/wiki/Web_development)  Development and I am also a proficient [Competitive Coder](https://en.wikipedia.org/wiki/Competitive_programming) 💻 
+- I've a good amount of experience in [WEB](https://en.m.wikipedia.org/wiki/Web_development)  Development and I am also a proficient (https://en.wikipedia.org/wiki/Competitive_programming) 💻 
 - Currently I'm working on various projects using WEB  Development👨‍💻
 - I’m looking to collaborate on any project that'll help me learn new things! 🤝🏻
 - Visit my [Portfolio](https://affidavit-portfolio.netlify.app/) 👀
