@@ -1,6 +1,6 @@
 # Hi there, I'm Yash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 
-- I'm Yash Mishra from [India](https://en.wikipedia.org/wiki/India), did my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) 🎓
+- I'm Yash Mishra from [India](https://en.wikipedia.org/wiki/India), did my [BTech](https://en.wikipedia.org/wiki/Bachelor_of_Technology) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) from [KIIT University](https://kiit.ac.in/) and working as an Frontend Engineer at Digiretail Software Private Limited. 🎓
 - I have a good amount of experience in [WEB](https://en.m.wikipedia.org/wiki/Web_development) Development and currently working as an Associate Frontend Developer, and I am also proficient in Nodejs 💻 .
 - Currently, I'm working on various projects using WEB  Development👨‍💻
 - I’m looking to collaborate on any project that'll help me learn new things! 🤝🏻
